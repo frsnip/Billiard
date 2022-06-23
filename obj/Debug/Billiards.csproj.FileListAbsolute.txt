@@ -1,0 +1,10 @@
+C:\Users\Roman Frolov\Downloads\Billiards.csproj1\bin\Debug\Billiards.exe.config
+C:\Users\Roman Frolov\Downloads\Billiards.csproj1\bin\Debug\Billiards.exe
+C:\Users\Roman Frolov\Downloads\Billiards.csproj1\bin\Debug\Billiards.pdb
+C:\Users\Roman Frolov\Downloads\Billiards.csproj1\bin\Debug\TestingRoom.dll
+C:\Users\Roman Frolov\Downloads\Billiards.csproj1\obj\Debug\Billiards.csproj.AssemblyReference.cache
+C:\Users\Roman Frolov\Downloads\Billiards.csproj1\obj\Debug\Billiards.csproj.SuggestedBindingRedirects.cache
+C:\Users\Roman Frolov\Downloads\Billiards.csproj1\obj\Debug\Billiards.csproj.CoreCompileInputs.cache
+C:\Users\Roman Frolov\Downloads\Billiards.csproj1\obj\Debug\Billiards.csproj.CopyComplete
+C:\Users\Roman Frolov\Downloads\Billiards.csproj1\obj\Debug\Billiards.exe
+C:\Users\Roman Frolov\Downloads\Billiards.csproj1\obj\Debug\Billiards.pdb
